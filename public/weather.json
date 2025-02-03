@@ -1,0 +1,71 @@
+{
+  "city": "Astana",
+  "current": {
+    "temp": -12.94,
+    "feelsLike": -19.04,
+    "description": "broken clouds",
+    "icon": "04n"
+  },
+  "forecast": [
+    {
+      "time": "2025-01-31 15:00:00",
+      "temperature": -17.52,
+      "icon": "04n"
+    },
+    {
+      "time": "2025-01-31 18:00:00",
+      "temperature": -20.31,
+      "icon": "04n"
+    },
+    {
+      "time": "2025-01-31 21:00:00",
+      "temperature": -21.23,
+      "icon": "04n"
+    },
+    {
+      "time": "2025-02-01 00:00:00",
+      "temperature": -17.48,
+      "icon": "04n"
+    },
+    {
+      "time": "2025-02-01 03:00:00",
+      "temperature": -13.49,
+      "icon": "13d"
+    },
+    {
+      "time": "2025-02-01 06:00:00",
+      "temperature": -8.47,
+      "icon": "13d"
+    },
+    {
+      "time": "2025-02-01 09:00:00",
+      "temperature": -4.19,
+      "icon": "13d"
+    },
+    {
+      "time": "2025-02-01 12:00:00",
+      "temperature": -3.21,
+      "icon": "13d"
+    },
+    {
+      "time": "2025-02-01 15:00:00",
+      "temperature": -4.05,
+      "icon": "13n"
+    },
+    {
+      "time": "2025-02-01 18:00:00",
+      "temperature": -4.04,
+      "icon": "13n"
+    },
+    {
+      "time": "2025-02-01 21:00:00",
+      "temperature": -2.72,
+      "icon": "13n"
+    },
+    {
+      "time": "2025-02-02 00:00:00",
+      "temperature": -4.15,
+      "icon": "13n"
+    }
+  ]
+}
